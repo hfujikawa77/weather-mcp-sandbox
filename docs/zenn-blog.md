@@ -1,5 +1,7 @@
 # TypeScript + MCPで作る！天気情報を返すMCPサーバー実装ガイド
 
+**GitHub リポジトリ**: https://github.com/hfujikawa77/weather-mcp-sandbox
+
 ## 🎯 この記事について
 
 MCP対応エージェントから使える「天気情報を返すMCPサーバー」をTypeScriptで実装し、実際に動かすまでの手順を紹介します。OpenWeatherMapを使って東京の天気を取得するツールと、緯度・経度を指定して任意の地点の天気を取得するツールを作成します。
